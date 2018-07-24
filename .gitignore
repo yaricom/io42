@@ -1,2 +1,5 @@
 # The IDEA config files
 .idea/
+
+# The MacOS specific
+.DS_Store
