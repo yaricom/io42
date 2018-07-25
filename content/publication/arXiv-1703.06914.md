@@ -67,7 +67,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "psistats_2dnn_network_graph.png"
+image = "projects/2/psistats_2dnn_network_graph.png"
 caption = "The visualization of artificial neural network graph"
 
 +++

@@ -11,7 +11,7 @@ tags = ["brain-computer interface", "machine-learning", "deep-learning"]
 summary = "Our goal is to create Brain Hash Algorithm able to produce robust distinction between EEG signals of different humans under electro-physiological visual feedback based on steady-state visually evoked potential (SSVEP). It can be applied at variety of tasks from user authentication at online web services to user identification for physical access control systems."
 
 # Optional image to display on homepage.
-image_preview = "wisp_screen.png"
+image_preview = "projects/1/wisp_screen.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,7 +25,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "wisp_screen.png"
+image = "projects/1/wisp_screen.png"
 caption = "The electro-physiological visual feedback screen"
 
 +++

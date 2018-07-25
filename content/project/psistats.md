@@ -11,7 +11,7 @@ tags = ["deep-learning", "machine-learning", "artificial-neural-networks", "deep
 summary = "The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper."
 
 # Optional image to display on homepage.
-image_preview = "psistats_2dnn_network_graph.png"
+image_preview = "projects/2/psistats_2dnn_network_graph.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "psistats_mlp_loss_relu-zero_combined.png"
+image = "projects/2/psistats_mlp_loss_relu-zero_combined.png"
 caption = "The visualization of artificial neural network graph"
 
 +++

@@ -17,7 +17,7 @@ categories = ["machine-learning", "reinforcement-learning"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "posts/neuroevolution-evolving-ANNs-feature.jpg"
+image = "posts/1/neuroevolution-evolving-ANNs-feature.jpg"
 caption = "The ANN graph representation"
 preview = true
 
@@ -36,7 +36,7 @@ The most popular method of [Artificial Neural Networks](https://en.wikipedia.org
 
 To overcome some of the drawbacks of GD-based training it was proposed to use alternative methods to train/evolve neural networks with group of algorithms inspired by natural selection and genetic evolution. It was given name [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm) (GA) to address the source of inspiration and due to its attempt to mimic natural process of genetic mutations, crossover and selection, while trying to solve objective function optimization problem. There are many types of such algorithms was invented during last years.
 
-{{< figure src="img/posts/crossover_mutation.png" title="The example of Crossover and Mutation in GA ([image source](http://www.abrandao.com/2015/01/simple-php-genetic-algorithm/))" >}}
+{{< figure src="img/posts/1/crossover_mutation.png" title="The example of Crossover and Mutation in GA ([image source](http://www.abrandao.com/2015/01/simple-php-genetic-algorithm/))" >}}
 
 But my main interest in this essay is to present a kind of GA which can be applied to evolve ANNs from the most simple forms to the complex ones in order to find objective function optimization solution not only by changing weights of connections between neural units, but by evolving the topology of network graph itself.
 
@@ -46,11 +46,11 @@ I would like to consider [Neuroevolution of Augmented Topologies](http://www.cs.
 
 With NEAT method, the training starts with very simple ANNs topology comprising of only input, output and bias neural units - no hidden units introduced at the beginning. Thus it ensures, that the system searches for the solution in the lowest-dimensional weight space possible over the course of all generations. The goal is not to minimize only final product, but all intermediate networks along the way as well. This idea is they key to gaining an advantage from the evolution of topology: it allows us to minimize the search space, resulting in dramatic performance gains.
 
-{{< figure src="img/posts/genotype-phenotype-mapping.png" title="A genotype to phenotype mapping example. A genotype is depicted that produces the shown phenotype." >}}
+{{< figure src="img/posts/1/genotype-phenotype-mapping.png" title="A genotype to phenotype mapping example. A genotype is depicted that produces the shown phenotype." >}}
 
 There are two main types of structural mutations present in the NEAT algorithm: adding the connection between nodes or adding the new node. When mutation is performed, the new added gene (connection gene or node gene) will be assigned with increasingly incremented *innovation number*.
 
-{{< figure src="img/posts/types-of-structural-mutations.png" title="In adding a connection, a single new connection gene is added to the end of the genome and given the next available innovation number. In adding a new node, the connection gene being split is disabled, and two new connection genes are added to the end the genome. The new node is between the two new connections." >}}
+{{< figure src="img/posts/1/types-of-structural-mutations.png" title="In adding a connection, a single new connection gene is added to the end of the genome and given the next available innovation number. In adding a new node, the connection gene being split is disabled, and two new connection genes are added to the end the genome. The new node is between the two new connections." >}}
 
 Through mutation, the genomes in NEAT will gradually get larger. Genomes of varying sizes will result, sometimes with different connections (genes) at the same positions.
 
@@ -60,7 +60,7 @@ Luckily for us, the *innovation numbers* incrementally assigned to the genes dur
 
 The historical markers give NEAT a power to track which genes match up with which. Thus, during the crossover, system will know exactly how to lineup genes from genomes of both parents. The genes with matching innovation numbers will be called *matching* genes. Genes that do not match are either *disjoint* or *excess*, depending on whether they occur within or outside the range of the other parent’s innovation numbers. They represent structure that is not present in the other parent’s genome. When composing the offspring, genes are randomly chosen from either parent at matching genes, whereas all excess or disjoint genes are always included from the more fit parent. This way, historical markings allow NEAT to perform crossover using linear genomes encoding without the need for expensive topological analysis.
 
-{{< figure src="img/posts/crossover-using-linear-genomes-encoding.png" title="During the crossover, the offspring genes are randomly chosen from matching genes of either parent and disjoint/excess genes taken from most fit parent. All diagrams from original [NEAT paper](http://nn.cs.utexas.edu/?stanley:gecco02b), highly recommended reading!" >}}
+{{< figure src="img/posts/1/crossover-using-linear-genomes-encoding.png" title="During the crossover, the offspring genes are randomly chosen from matching genes of either parent and disjoint/excess genes taken from most fit parent. All diagrams from original [NEAT paper](http://nn.cs.utexas.edu/?stanley:gecco02b), highly recommended reading!" >}}
 
 Using proposed method the population of organisms can evolve diverse topologies, but it happens that such population can not evolve and maintain *topological innovations* on its own. The smaller structures optimize faster than larger structures. Thus by adding new nodes and connections to some topology we artificially reduce it’s chances for survival. The freshly augmented topologies usually experience initial decrease in the fitness, even though the innovations they represent may be resulting in winning solution in the long run.
 

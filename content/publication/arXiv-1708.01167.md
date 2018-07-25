@@ -67,7 +67,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "wisp_screen.png"
+image = "projects/1/wisp_screen.png"
 #image = "wave_screen.png"
 caption = "The electro-physiological visual feedback screen"
 
