@@ -14,7 +14,7 @@ summary = "This project provides GOLang implementation of Neuro-Evolution of Aug
 image_preview = "projects/4/17_hard_mazens_winner.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/yaricom/goNEAT_NS"
 
 # Does the project detail page use math formatting?
 math = false
