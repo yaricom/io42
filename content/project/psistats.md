@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning", "machine-learning", "deep-neural-networks", "psycho-demographic profiling"]
+tags = ["deep-learning", "machine-learning", "artificial-neural-networks", "deep-neural-networks", "psycho-demographic profiling"]
 
 # Project summary to display on homepage.
 summary = "The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper."

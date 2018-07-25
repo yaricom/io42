@@ -27,6 +27,8 @@ weight = 5
 
 # Biography
 
-Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control & optimization, and Neurobiology. He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with minimal footprint to solve variety of control & optimization tasks as well as do research in brain-computer interfaces.
+Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control & optimization, and Neurobiology.
 
-He has more than 30 years of experience with software design and actively participates in open source projects at GitHub. He presented his publications at international conferences.
+He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with minimal footprint to solve variety of control & optimization tasks as well as do research in brain-computer interfaces.
+
+He has more than 30 years of experience with software design and project management. Actively participates in open source projects. He presented research papers as an author at international conferences.
