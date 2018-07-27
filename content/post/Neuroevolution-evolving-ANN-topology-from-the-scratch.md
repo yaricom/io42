@@ -82,4 +82,6 @@ The author also provided his own implementation of NEAT in GO programming langua
 
 The associated research project can be found at ResearchGate: https://www.researchgate.net/project/NeuroEvolution-of-Augmented-Topologies
 
-> The original article was posted by author at Medium: [Neuroevolution - evolving Artificial Neural Networks topology from the scratch](https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84)
+~
+
+The repost of the original article posted by author at Medium: [Neuroevolution - evolving Artificial Neural Networks topology from the scratch](https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84)
