@@ -9,7 +9,7 @@ authors = ["Iaroslav Omelianenko"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["neuroevolution", "artificial-neural-networks", "machine-learning", "reinforcement-learning"]
-categories = ["machine-learning", "reinforcement-learning"]
+categories = ["artificial-neural-networks"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -24,7 +24,7 @@ preview = true
 
 +++
 
-The most popular method of [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and become a foundation of all modern research activities in the [Deep Machine Learning](https://en.wikipedia.org/wiki/Deep_learning) (ML) and the [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI). But despite the fact that it gives immense power in areas of pattern recognition ([feature or representation learning](https://en.wikipedia.org/wiki/Feature_learning)) it has considerable weakness:
+The most popular method of [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN) training - at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and become a foundation of all modern research activities in the [Deep Machine Learning](https://en.wikipedia.org/wiki/Deep_learning) (ML) and the [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI). But despite the fact that it gives immense power in areas of pattern recognition ([feature or representation learning](https://en.wikipedia.org/wiki/Feature_learning)) it has considerable weakness:
 
 * the network topology must be fully hand-engineered before training starts and only connection weights encapsulate learned knowledge, the network topology remain the same
 * as a result it may introduce oversatturated neural units which don not take part in the training/inference process but simply consuming comptunig resources

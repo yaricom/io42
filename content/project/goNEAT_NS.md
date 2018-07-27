@@ -1,5 +1,5 @@
 +++
-title = "GoNEAT_NS"
+title = "Go NEAT Novelty Search"
 date = 2018-07-25T18:30:58+03:00
 draft = false
 
