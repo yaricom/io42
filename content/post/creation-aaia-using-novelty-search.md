@@ -9,8 +9,8 @@ authors = ["Iaroslav Omelianenko"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["neuroevolution", "artificial-neural-networks", "machine-learning", "reinforcement-learning", "modular-ai"]
-categories = ["artificial-neural-networks", "modular-ai"]
+tags = ["neuroevolution", "artificial-neural-networks", "machine-learning", "reinforcement-learning", "modular-ai", "explainable-ai"]
+categories = ["artificial-neural-networks", "modular-ai", "explainable-ai"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
