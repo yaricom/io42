@@ -13,8 +13,9 @@ weight = 5
     "Artificial Intelligence",
     "Computational Linguistics",
     "Brain-Computer Interface",
-    "Neuroevolution",
-    "Neurobiology"
+    "Neuro-evolution",
+    "Neuro-biology",
+    "Neuro-science"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -44,8 +44,11 @@ enableGitInfo = false
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  #fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  #smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
 
 [params]
   # Color theme.
@@ -62,7 +65,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "NewGround LLC", url = "https://www.newground.ua" } ]
+  organizations = [ { name = "NewGround Advanced Research", url = "https://www.newground.ua" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -183,7 +186,9 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'arXiv preprint' #7
+    'arXiv preprint', #7
+    'MDPI preprint', #8
+    'RG preprint' #9
   ]
 
   # Configuration of talk pages.
