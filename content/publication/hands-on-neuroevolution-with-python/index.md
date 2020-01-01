@@ -20,11 +20,10 @@ publication_types: ["5"]
 publication: "Hands-On Neuroevolution with Python: Build high-performing artificial neural network architectures using neuroevolution-based algorithms"
 publication_short: "Hands-On Neuroevolution with Python"
 
-abstract: "Neuroevolution is a form of artificial intelligence learning that uses evolutionary algorithms to simplify the process of solving complex tasks in domains such as games, robotics, and the simulation of natural processes. This book will give you comprehensive insights into essential neuroevolution concepts and equip you with the skills you need to apply neuroevolution-based algorithms to solve practical, real-world problems.
-
-You'll start with learning the key neuroevolution concepts and methods by writing code with Python. You'll also get hands-on experience with popular Python libraries and cover examples of classical reinforcement learning, path planning for autonomous agents, and developing agents to autonomously play Atari games. Next, you'll learn to solve common and not-so-common challenges in natural computing using neuroevolution-based algorithms. Later, you'll understand how to apply neuroevolution strategies to existing neural network designs to improve training and inference performance. Finally, you'll gain clear insights into the topology of neural networks and how neuroevolution allows you to develop complex networks, starting with simple ones.
-
-By the end of this book, you will not only have explored existing neuroevolution-based algorithms, but also have the skills you need to apply them in your research and work assignments."
+abstract: "Neuroevolution is a form of artificial intelligence learning that uses evolutionary algorithms to simplify the process of solving complex tasks in domains such as games, robotics, and the simulation of natural processes. This book will give you comprehensive insights into essential neuroevolution concepts and equip you with the skills you need to apply neuroevolution-based algorithms to solve practical, real-world problems.<br/><br/>
+You'll start with learning the key neuroevolution concepts and methods by writing code with Python. You'll also get hands-on experience with popular Python libraries and cover examples of classical reinforcement learning, path planning for autonomous agents, and developing agents to autonomously play Atari games. Next, you'll learn to solve common and not-so-common challenges in natural computing using neuroevolution-based algorithms. Later, you'll understand how to apply neuroevolution strategies to existing neural network designs to improve training and inference performance. Finally, you'll gain clear insights into the topology of neural networks and how neuroevolution allows you to develop complex networks, starting with simple ones.<br/><br/>
+By the end of this book, you will not only have explored existing neuroevolution-based algorithms, but also have the skills you need to apply them in your research and work assignments.<br/><br/>
+My book [Hands-On Neuroevolution with Python](https://www.amazon.com/dp/B082J28SZ7/ref=cm_sw_em_r_mt_dp_U_21gcEbGFY2RGN) is now awailable on Amazon."
 
 # Summary. An optional shortened abstract.
 summary: "Neuroevolution is a form of artificial intelligence learning that uses evolutionary algorithms to simplify the process of solving complex tasks in domains such as games, robotics, and the simulation of natural processes. This book will give you comprehensive insights into essential neuroevolution concepts and equip you with the skills you need to apply neuroevolution-based algorithms to solve practical, real-world problems."
@@ -32,10 +31,16 @@ summary: "Neuroevolution is a form of artificial intelligence learning that uses
 tags: 
 - neuroevolution
 - novelty-search
+- evolutionary-computation
+- autonomous-robotics
+- reinforcement-learning
+- unsupervised-learning
 
 categories:
 - artificial-neural-networks
 - neuroevolution
+- evolutionary-computation
+- autonomous-robotics
 
 featured: true
 
