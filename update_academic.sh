@@ -7,4 +7,5 @@ git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/master
 cd ../../
 
 # Update Academic.
+# --init --recursive
 git submodule update --remote --merge

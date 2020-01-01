@@ -1,5 +1,8 @@
 # The IDEA config files
 .idea/
 
+# The generated resources
+resources/
+
 # The MacOS specific
 .DS_Store
