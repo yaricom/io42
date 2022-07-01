@@ -18,7 +18,7 @@ organizations:
   url: "https://www.newground.ua"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include genetic algorithms/neuroevolution, synthetic cognitive systems and cooperative robotics.
+bio: My research interests include genetic algorithms/neuroevolution, synthetic cognitive systems, smart environment, and cooperative robotics.
 
 # Genetic Algorithms, Synthetic Cognitive Systems, Cooperative Robotics, Mobile Technologies
 interests:
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: MEng in Industrial Process Management
+  - course: Master of Engineering, Industrial Process Management
     institution: Ukrainian State University of Food Technologies
     year: 1999
 
@@ -84,4 +84,4 @@ He leads the Research and Development team, which applies genetic algorithms to 
 
 He has more than 30 years of experience with software design, implementation, and project management. He actively participates in open source projects. He presented research papers as an author at international conferences.
 
-He is an author of the book [Hands-On Neuroevolution with Python](https://www.amazon.com/dp/B082J28SZ7/ref=cm_sw_em_r_mt_dp_U_21gcEbGFY2RGN) now available on Amazon.
+He is an author of the book [Hands-On Neuroevolution with Python](https://www.amazon.com/dp/B082J28SZ7/ref=cm_sw_em_r_mt_dp_U_21gcEbGFY2RGN) now available on Amazon. Also, he co-authored the book [Machine Learning and the City: Applications in Architecture and Urban Design](https://www.wiley.com/en-gb/Machine+Learning+and+the+City%3A+Applications+in+Architecture+and+Urban+Design-p-9781119749639).
