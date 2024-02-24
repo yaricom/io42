@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "Design of cluster-computing architecture to improve training speed of the Neuroevolution algorithm, 9th International Congress on Information and Communication Technology, London, United Kingdom"
 publication_short: ""
 
-abstract: In this paper, we review the key features and major drawbacks of the Neuroevolution of Augmenting Topologies (NEAT) algorithm, such as slow training speed that limits its area of application. The main reason for the performance issues of the NEAT algorithm is the huge number of calculations required at the end of each epoch to estimate the fitness of each organism in the population. We propose a software system architecture that can be implemented to solve NEAT performance problems based on Ray cluster-computing framework. Finally, we demonstrate how fitness estimation computations can be distributed across stateless distributed workers deployed either on-premise or in the cloud using Ray framework.
+abstract: In this paper, we review the key features and major drawbacks of the Neuroevolution of Augmenting Topologies (NEAT) algorithm, such as slow training speed that limits its area of application. The main reason for the performance issues of the NEAT algorithm is the huge number of calculations required at the end of each epoch to estimate the fitness of each organism in the population. We propose a software system architecture that can be implemented to solve NEAT performance problems based on Ray cluster-computing framework. Finally, we demonstrate how fitness estimation computations can be distributed across stateless distributed workers deployed either on-premise or in the cloud using [Ray framework](https://www.ray.io).
 
 # Summary. An optional shortened abstract.
 summary: ""
