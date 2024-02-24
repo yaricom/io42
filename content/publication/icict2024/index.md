@@ -1,5 +1,5 @@
 ---
-title: "ICICT 2024, London, United Kingdom"
+title: "Design of cluster-computing architecture to improve training speed of the Neuroevolution algorithm"
 authors:
 - admin
 date: 2024-02-22T16:15:00-00:00

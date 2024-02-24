@@ -1,5 +1,5 @@
 ---
-title: "arXiv:1708.01167"
+title: "Applying advanced machine learning models to classify electro-physiological activity of human brain for use in biometric identification."
 authors:
 - admin
 date: 2017-08-03T17:32:12+03:00

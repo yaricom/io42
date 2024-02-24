@@ -1,5 +1,5 @@
 ---
-title: "arXiv:1703.06914"
+title: "Applying Deep Machine Learning for psycho-demographic profiling of Internet users using O.C.E.A.N. model of personality."
 authors:
 - admin
 date: "2017-03-07T12:27:21+03:00"
