@@ -5,7 +5,7 @@ title: "Machine Learning and the City: Applications in Architecture and Urban De
 authors:
 - admin
 date: 2022-06-01T17:38:33+02:00
-doi: ""
+doi: "10.1002/9781119815075.ch21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-06-01T17:38:33+02:00
@@ -70,13 +70,13 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://books.google.com.ua/books?id=phh1EAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false
-url_code:
+url_pdf: https://www.wiley.com/en-gb/Machine+Learning+and+the+City%3A+Applications+in+Architecture+and+Urban+Design-p-9781119749639
+url_code: https://github.com/yaricom/goNEAT
 url_dataset:
 url_poster:
 url_project: 
 url_slides:
-url_source: https://github.com/yaricom/goNEAT
+url_source: 
 url_video:
 
 # Featured image

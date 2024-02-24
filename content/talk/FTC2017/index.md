@@ -3,7 +3,7 @@ title: FTC 2017 paper presentation
 event: Future Technologies Conference 2017, Vancouver, BC, Canada
 event_url: http://www.saiconference.com/Conferences/FTC2017
 
-location: Pan Pacific Hotel Vancouver
+location: Pan Pacific Hotel Vancouver, Vancouver, Canada
 address:
   street: Canada Place
   city: Vancouver
@@ -11,8 +11,8 @@ address:
   postcode: 'V6C 3B5'
   country: Canada
 
-summary: I was presenting our research paper \"Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality\"
-abstract: "I was presenting our research paper \"Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality\" at Future Technologies Conference 2017, held in the 29 and 30th November in Vancouver, BC, Canada."
+summary: I presented our research paper \"Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality\"
+abstract: "I presented our research paper \"Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality\" at Future Technologies Conference 2017, that was held at November 29-30, 2017 in Vancouver, BC, Canada."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,8 +38,9 @@ image:
   caption: ''
   focal_point: Right
 
-url_pdf: "files/applying-deep-machine-FTC2017.pdf"
+url_pdf: "files/ftc2017/applying-deep-machine-FTC2017.pdf"
 url_slides: "https://www.facebook.com/media/set/?set=a.1567925819961729.1073741846.367039590050364&type=1&l=b01b73d30b"
+url_poster: "files/ftc2017/FTC2017_certificate.pdf"
 url_video: ""
 url_code: "https://github.com/NewGround-LLC/psistats"
 

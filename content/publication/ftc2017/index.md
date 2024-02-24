@@ -1,5 +1,5 @@
 ---
-title: "FTC 2017"
+title: "FTC 2017, Vancouver, Canada"
 authors:
 - admin
 date: 2017-11-29T13:30:00-08:00

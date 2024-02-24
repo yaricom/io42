@@ -1,5 +1,5 @@
 ---
-title: "RG.2.2.20698.80328"
+title: "Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization"
 authors:
 - admin
 date: 2018-08-28T15:28:14+02:00

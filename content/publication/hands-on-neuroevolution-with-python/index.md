@@ -59,12 +59,12 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://www.amazon.com/dp/B082J28SZ7/ref=cm_sw_em_r_mt_dp_U_21gcEbGFY2RGN
-url_code:
+url_code: https://github.com/PacktPublishing/Hands-on-Neuroevolution-with-Python
 url_dataset:
 url_poster:
 url_project: https://www.researchgate.net/project/Hands-On-Neuroevolution-with-Python
 url_slides:
-url_source: https://github.com/PacktPublishing/Hands-on-Neuroevolution-with-Python
+url_source: 
 url_video:
 
 # Featured image

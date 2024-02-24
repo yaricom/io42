@@ -1,5 +1,5 @@
 ---
-title: "Preprints:201901.0282"
+title: "Artificial Swarm Intelligence and Cooperative Robotic Systems"
 authors:
 - admin
 date: 2019-02-05T15:05:37+02:00
