@@ -7,8 +7,7 @@ location: 40, Academician Glushkov avenue, Kyiv, Ukraine
 address:
   street: 40, Academician Glushkov avenue
   city: Kyiv
-  region: Kyiv
-  postcode: 03187
+  postcode: "03187"
   country: Ukraine
 
 summary: I presented my research paper \"Application of the coevolution strategy to solve the problem of autonomous navigation through the maze\"
