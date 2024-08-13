@@ -15,8 +15,8 @@ publishDate: "2023-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Simulation of the Autonomous Maze Navigation using the NEAT Algorithm"
-publication_short: ""
+publication: "Simulation of the autonomous maze navigation using the NEAT algorithm. Problems in programming, 2023. Vol. 4, N 1. P. 76-89."
+publication_short: "Simulation of the Autonomous Maze Navigation using the NEAT Algorithm"
 
 abstract: The article deals with the problem of finding a solution for the navigational task of navigating a maze by an autonomous agent controlled by an artificial neural network (ANN). A solution to this problem was proposed by training the controlling ANN using the method of neuroevolution of augmenting topologies (NEAT). <br/>A description of the mathematical apparatus for determining the goal-oriented objective function to measure fitness of the decision-making agent, suitable for optimizing the training of ANN in the process of neuroevolution, was given. Based on the invented objective function, a software was developed to control the neuroevolutionary process using the Python programming language.<br/>A system for simulating the behavior of an autonomous robot that can navigate through a maze using input signals from various types of sensors has been created. The simulation system allows to imitate the behavior of a physical robot in a large number of experiments in a short time and with minimal expenses.<br/>The experiments performed using the created simulation system to find the optimal values of hyperparameters, which can be used for successful training of the controlling ANN by the method of neuroevolution, are presented.<br/>Additionally, the implemented new methods of visualizing the training process are described. These methods significantly simplify the search for optimal hyperparameters of the NEAT algorithm, due to the visual demonstration of the effect of changing one or another parameter on the training process.
 
