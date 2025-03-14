@@ -6,7 +6,7 @@ date: 2024-08-10T16:15:00-00:00
 doi: "10.1007/978-981-97-3556-3_32"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "20124-02-22T16:15:00Z"
+publishDate: "2024-02-22T16:15:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
