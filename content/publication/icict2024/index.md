@@ -28,7 +28,7 @@ tags:
 
 featured: true
 
-url_pdf: "/files/icict2024/flyer_978-981-97-3556-3.pdf"
+url_pdf: "/files/icict2024/springer_flyer_978-981-97-3556-3.pdf"
 url_code: "https://github.com/yaricom/goNEAT"
 
 # Featured image
