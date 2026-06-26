@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Iaroslav Omelianenko
+name: Dr. Iaroslav Omelianenko
 
 # Username (this should match the folder name)
 authors:
@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: CTO/Research Director at NewGround LLC
+role: CTO/Research Director
 
 # Organizations/Affiliations
 organizations:
+- name: IO42 Lab
+  url: https://io42-lab.com
 - name: NewGround Advanced Research
   url: "https://www.newground.ua"
 
@@ -32,6 +34,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Institute of Software Systems, National Academy of Sciences of Ukraine
+    year: 2026
   - course: Master of Engineering, Industrial Process Management
     institution: Ukrainian State University of Food Technologies
     year: 1999
@@ -78,7 +83,7 @@ user_groups:
 - Visitors
 ---
 
-Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control & optimization, and Neurobiology.
+Dr. Iaroslav Omelianenko is a CTO and Research Director at the IO42 Lab and NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control & optimization, and Neurobiology.
 
 He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with a minimal footprint to solve a variety of control & optimization tasks as well as do research in brain-computer interfaces.
 
